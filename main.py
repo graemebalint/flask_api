@@ -1,5 +1,5 @@
 import sqlalchemy.orm.exc
-from flask import Flask, jsonify, request, make_response
+from flask import Flask, jsonify, request, make_response, render_template
 from flask_sqlalchemy import SQLAlchemy
 import random
 
@@ -29,7 +29,7 @@ with app.app_context():
 
 @app.route("/")
 def home():
-    return "Home page"
+    return render_template("index.html")
 
 @app.route("/getrandom",methods=["GET"])
 def get_random():
