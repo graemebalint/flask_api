@@ -1,6 +1,6 @@
 # flask-api
 
-Test out the API here: http://graemebalint.pythonanywhere.com/
+Test out the API here: http://graemebalint.pythonanywhere.com
 
 Endpoints:
 1. /getall
