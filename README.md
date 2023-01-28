@@ -7,5 +7,6 @@ Endpoints:
 2. /getrandom
 3. /searchbylocation
 4. /searchbyid
-5. /deletebyid
-6. /deleteall
+5. /add
+6. /deletebyid
+7. /deleteall
