@@ -13,7 +13,7 @@ Test out the API here: http://graemebalint.pythonanywhere.com
 
 **Instructions:**
 
-1. If you're unfamiliar with API endpoints and want to test out this program, open the test link in your browser and then paste in 1 of the endpoints. For exampple, http://graemebalint.pythonanywhere.com/getall
+1. If you're unfamiliar with API endpoints and want to test out this program, open the test link in your browser and then paste in 1 of the endpoints. For example, http://graemebalint.pythonanywhere.com/getall
 2. I recommend testing /getall or /getrandom. The other endpoints require user input and the syntax may feel complicated.
 
 **Project goals:**
